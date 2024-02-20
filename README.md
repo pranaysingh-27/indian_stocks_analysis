@@ -1,10 +1,18 @@
 # Indian stocks analysis
 
-Tools: Google Spreadsheet, Google Looker Studio (Data Studio)
+> Description:
+- This project aims to find good stocks from given dataset, for possible investments based on past performance, PE ratio, industry, 52-week high, 52-week low, and other factors.
 
-Description: To perform analysis of Indian stocks from raw data, make interactive dashboards, KPIs, reports and visualization.
+> Objectives:
+- Perform data cleaning and manipulation.
+- Make a spreadsheet of good stocks based on certain conditions.
+- Develop interactive dashboards for Stocks analysis and industry analysis, reports and visualizations with Key Performance indicators (KPIs).
 
-Solution Links: 
+> Tools:
+- Google Spreadsheet, Google Looker Studio (Data Studio)
+
+> Spreadsheet and Dashboard Links:
+
 1.	Google Spreadsheet:
 https://docs.google.com/spreadsheets/d/1MSPculeQb0bVeFnc4mYgL3FCeSZodmctzcnD3WV7__M/edit#gid=68892552
 
