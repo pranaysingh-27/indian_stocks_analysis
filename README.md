@@ -1,5 +1,4 @@
-# stocks_analysis
-Indian stocks analysis
+# Indian stocks analysis
 
 Solution Links: 
 1.	Spreadsheet:
