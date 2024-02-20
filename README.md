@@ -18,3 +18,5 @@ https://docs.google.com/spreadsheets/d/1MSPculeQb0bVeFnc4mYgL3FCeSZodmctzcnD3WV7
 
 2.	Google Looker Studio (Data Studio):
 https://lookerstudio.google.com/reporting/4f858a61-aea8-4885-8acc-bd21321515dc
+
+![image](https://github.com/pranaysingh-27/indian_stocks_analysis/assets/143386107/7177b3ee-fc43-40de-90e7-51959576ef45)
